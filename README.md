@@ -68,6 +68,7 @@
 - [Axactor](https://github.com/Feralthedogg/Axactor)
 - [LLAM](https://github.com/Feralthedogg/LLAM)
 - [DCC](https://github.com/Feralthedogg/DCC)
+- [TypeSea](https://github.com/Feralthedogg/typesea)
 ---
 
 ## Contact  
