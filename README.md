@@ -76,12 +76,31 @@
 [![](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/803177060956766231)  
 
 ---
-
 ## GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Feralthedogg\&show_icons=true\&theme=material-palenight\&hide_border=true\&bg_color=20232a\&icon_color=58A6FF\&text_color=FFFFFF\&title_color=58A6FF)](https://github.com/Feralthedogg)
+<p align="center">
+  <a href="https://github.com/Feralthedogg">
+    <img
+      width="49%"
+      src="https://github-stats-extended.vercel.app/api?username=Feralthedogg&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=FFFFFF&title_color=58A6FF"
+      alt="Feralthedogg's GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/Feralthedogg?tab=repositories">
+    <img
+      width="41%"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Feralthedogg&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&text_color=FFFFFF&title_color=58A6FF"
+      alt="Feralthedogg's Top Languages"
+    />
+  </a>
+</p>
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Feralthedogg\&layout=compact\&theme=material-palenight\&hide_border=true\&bg_color=20232a\&text_color=FFFFFF\&title_color=58A6FF)](https://github.com/Feralthedogg?tab=repositories)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Feralthedogg\&theme=react-dark\&bg_color=20232a\&hide_border=true\&line=58A6FF\&color=FFFFFF\&title_color=58A6FF\&point=FFFFFF)](https://github.com/Feralthedogg)
-
+<p align="center">
+  <a href="https://github.com/Feralthedogg">
+    <img
+      width="92%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Feralthedogg&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=FFFFFF&title_color=58A6FF&point=FFFFFF"
+      alt="Feralthedogg's Contribution Graph"
+    />
+  </a>
+</p>
